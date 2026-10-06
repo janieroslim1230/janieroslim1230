@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Tijanie Marsya Binti Roslim
 
-<!--
-**janieroslim1230/janieroslim1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
 
-Here are some ideas to get you started:
+## About me
+- Studying: Computer Science , UiTM
+- Currently learning: How to set up my github
+- My FYP area: Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+C++, Java, Python
+
+## Projects
+- AI-powered Natural Language Book Recommendation (link-to-your-repository): A system AI help recommending a book based on the description we gave it using our language.
+
+## Contact
+- LinkedIn: [your profile link]
+- Email: tijaniemarsya3@gmail.com
