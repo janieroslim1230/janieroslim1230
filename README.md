@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tijanie Marsya Binti Roslim
 
-[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
+Computer Science student at UiTM interested in software engineering and AI.
 
 ## About me
 - Studying: Computer Science , UiTM
@@ -11,8 +11,7 @@
 C++, Java, Python
 
 ## Projects
-- AI-powered Natural Language Book Recommendation (link-to-your-repository): A system AI help recommending a book based on the description we gave it using our language.
+- Lost and Found System (link-to-your-repository): A system to help community to reunite lost items back to their rightful owners.
 
 ## Contact
-- LinkedIn: [your profile link]
 - Email: tijaniemarsya3@gmail.com
